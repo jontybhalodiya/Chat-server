@@ -5,7 +5,7 @@
 </div>
 
 ## About Chat-server:
-This is a Chat-server made using java and gui.
+This is a Chat-server made using JAVA and GUI.
 
 ### Steps to Run on Local Machine
 
